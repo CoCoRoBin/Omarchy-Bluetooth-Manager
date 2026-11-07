@@ -1,0 +1,12 @@
+# Editor and local backup files
+*.swp
+*.swo
+*~
+*.bak
+*.bak.*
+.DS_Store
+
+# Local credentials and diagnostic outputs
+.env
+.env.*
+*.log
